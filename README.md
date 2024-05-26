@@ -8,7 +8,7 @@ Skills: Python / OpenCV / TensorFlow / C# / Raspberry Pi / Unity3D / Javascript 
 
 - 🔭 I’m currently working on computer vision on OpenCV 
 - 👯 I’m looking to collaborate on image or video processing projects 
-- 🤔 I’m looking for help with object tracking algorithms 
+- 🤔 I’m looking for help with object-tracking algorithms 
 - 📫 How to reach me: arunmekkad@gmail.com 
 - 😄 Pronouns: He/him 
 - ⚡ Fun fact: I am a basketball player and can sing pretty well 
