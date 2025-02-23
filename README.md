@@ -2,7 +2,7 @@
 
 #### Robotics, Computer Vision, and Spatial Computing Enthusiast
 
-[![Arun Mekkad](https://github.com/ArunMekkad/ArunMekkad/assets/56787066/cd71b168-6a4a-4891-9a25-6d826f6b94e4)]()
+[![Arun Mekkad](https://github.com/user-attachments/assets/05e78f80-c045-4b61-8b54-f340cc5ff6c5)]()
 
 I'm a Master's student in Robotics (Electrical and Computer Engineering) at Northeastern University, Boston with a background in Instrumentation and Control Engineering. I'm passionate about the intersection of robotics, computer vision, and spatial computing. I'm currently working as a Part-time Lab Associate at the XR Immersive Media Lab, where I develop and test XR applications using Unity on XR devices, enhancing students' practical skills. I have over two years of professional experience at Tata Elxsi Limited in Bangalore, developing cutting-edge visual computing solutions.
 
