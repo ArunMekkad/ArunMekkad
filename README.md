@@ -26,4 +26,4 @@ I'm a Master's student in Robotics (Electrical and Computer Engineering) at Nort
 *   **Pedestrian Detection and Localization (Python/YOLOv11/LiDAR):** Created a custom YOLOv11 CV model for pedestrian and cyclist detection, achieving 80% accuracy.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ArunMekkad)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://github.com/ArunMekkad)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arun-mekkad-61918b2a4/)
