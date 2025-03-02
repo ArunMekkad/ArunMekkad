@@ -22,7 +22,7 @@ I'm a Master's student in Robotics (Electrical and Computer Engineering) at Nort
 
 **Projects & Highlights:**
 
-*   **Real-time 2D Object detection (OpenCV/C++) - A program that demonstrates how 2D object detection can be done using OpenCV.
+*   **Real-time 2D Object detection (OpenCV/C++)** - A program that demonstrates how 2D object detection can be done using OpenCV.
 *    **Adaptive Cruise Control System (MATLAB/Simulink):** Developed an ACC simulation integrating LIDAR sensors for obstacle avoidance, improving safety in simulated driving scenarios.
 *   **Pedestrian Detection and Localization (Python/YOLOv11/LiDAR):** Created a custom YOLOv11 CV model for pedestrian and cyclist detection, achieving 80% accuracy.  
 
