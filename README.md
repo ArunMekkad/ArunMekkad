@@ -8,12 +8,12 @@ I'm a Master's student in Robotics (Electrical and Computer Engineering) at Nort
 
 **Currently Exploring:** Advancements in robotics, real-time computer vision applications, and spatial computing technologies.
 
-**Skills:** Python / C++ / OpenCV / TensorFlow / ROS / Raspberry Pi / C# / JavaScript / TypeScript / Unity3D / Blender / HTML / CSS
+**Skills:** Python / C++ / OpenCV / PyTorch / TensorFlow / ROS / GTSAM / CVXPY / Raspberry Pi / C# / JavaScript / Unity3D / Blender
 
-- 🔭 I’m currently working on applying computer vision techniques using OpenCV for real-time applications.
-- 🌱 I’m currently learning more about SLAM (Simultaneous Localization and Mapping) for robot navigation.
-- 👯 I’m looking to collaborate on projects related to image/video processing, robotics, and spatial computing.
-- 🤔 I’m looking for help with advanced object-tracking algorithms and optimizing them for embedded systems.
+- 🔭 I'm currently working on applying computer vision techniques using OpenCV for real-time applications.
+- 🌱 I'm currently learning more about SLAM (Simultaneous Localization and Mapping) for robot navigation.
+- 👯 I'm looking to collaborate on projects related to image/video processing, robotics, and spatial computing.
+- 🤔 I'm looking for help with advanced object-tracking algorithms and optimizing them for embedded systems.
 - 💼 **Part-time Lab Associate:** XR Immersive Media Lab, Northeastern University. Developing XR educational tools and managing lab operations for devices like Meta Quest Pro and HoloLens 2.
 - 🏢 **Past Experience:** Senior Engineer at Visual Computing Labs, Tata Elxsi Limited, developing interactive car customizer applications in Unity and contributing to metaverse development.
 - 📫 How to reach me: arunmekkad@gmail.com / mekkad.a@northeastern.edu
@@ -22,9 +22,14 @@ I'm a Master's student in Robotics (Electrical and Computer Engineering) at Nort
 
 **Projects & Highlights:**
 
-*   **Real-time 2D Object detection (OpenCV/C++)** - A program that demonstrates how 2D object detection can be done using OpenCV.
-*    **Adaptive Cruise Control System (MATLAB/Simulink):** Developed an ACC simulation integrating LIDAR sensors for obstacle avoidance, improving safety in simulated driving scenarios.
-*   **Pedestrian Detection and Localization (Python/YOLOv11/LiDAR):** Created a custom YOLOv11 CV model for pedestrian and cyclist detection, achieving 80% accuracy.  
+*   **Pedestrian Detection and Localization (Python/YOLOv11/LiDAR)** - Created a custom YOLOv11 model achieving 80% accuracy and 77% F1 score across various conditions
+*   **Recognition using Deep Networks (PyTorch/TensorFlow)** - Implemented custom CNN architectures and transfer learning pipelines, reducing training time by 40%
+*   **Camera Calibration and Augmented Reality (OpenCV/C++/DA2)** - Developed a system for camera calibration and demonstrates augmented reality foundations
+*   **Mobile Robotics and Navigation (Python/CVXPY/GTSAM/NumPy)** -  Simulation of mapping, navigation, localization, and SLAM algorithms for autonomous mobile robots
+*   **Real-time 2D Object Detection (OpenCV/C++)** - Implemented a robust pipeline with ISODATA thresholding and morphological filtering, achieving real-time performance with MongoDB integration
+*   **Adaptive Cruise Control System (MATLAB/Simulink)** - Developed an ACC simulation with MPC and PID controllers, demonstrating safe following distances in simulated scenarios
+*   **Image Enhancement with CLAHE (OpenCV/Python)** - Created an adaptive histogram equalization system for improved contrast in various lighting conditions
+*   **Image Segmentation (scikit-learn/Python)** - Implemented Otsu's thresholding and K-means clustering for robust image segmentation across different scenarios
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ArunMekkad)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arun-mekkad-61918b2a4/)
